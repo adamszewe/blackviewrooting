@@ -138,7 +138,7 @@ Spegnere il device ed estrarre la batteria. Le operazioni successive avvengono q
 <br />
 Ora spuntare a sinistra "recovery" e cliccare a destra per specificare l'immagine di recovery.
 <br />
-![Alt text](img/sp_tool1.png?raw=true "SP Tool - Specificare recovery image")
+![Alt text](img/sp_tool_1.png?raw=true "SP Tool - Specificare recovery image")
 
 ### 5.6 Assicurarsi che lo smartphone sia scollegato dal pc e che sia spento
 Il device viene riconosciuto dal programma solo quando e' spento (si puo' anche estrarre la batteria). E' necessario anche che prima di avviare il processo di scrittura dell'immagine, il device sia scollegato dal PC.
