@@ -148,7 +148,13 @@ Il device viene riconosciuto dal programma solo quando e' spento (si puo' anche 
 Il processo si avvia e a questo punto possiamo collegare lo smartphone al PC, che verra' riconosciuto, e in pochi istanti l'immagine "recovery" verra' copiata sul device.
 Terminata la copia cliccare "Stop" e scollegare il device.
 
-### 5.8
+### 5.8 Accendere il device
+Accendere il device premendo il tasto power e il tasto Volume +, questo dovrebbe accendere il dispositivo nella modalita' speciale. Qui dovrebbe comparire la schermata di TWRP. 
+<br />
+(incompleto)
+Qui dovrebbe esserci un'opzione per installare componenti nuovi, selezionare quella e navigare nella cartella principale del device dove abbiamo messo il file SuperSU-v2.82-201705271822.zip, confermare l'installazione e riavviare.
+<br />
+A questo punto dovremmo essere root sullo smartphone.
 
 
 
