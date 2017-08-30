@@ -131,6 +131,7 @@ Spegnere il device ed estrarre la batteria. Le operazioni successive avvengono q
 ### 5.5 Aprire SP Tool con i diritti di amministratore
   Aprire SP tool con i diritti di amministratore e caricare "scatter file" cliccando a nel campo di testo accanto a "Scatter-Loading File" - quindi navigare e aprire il file <em>MT6580_Android_scatter.txt</em>
   <br />
+![Alt text](img/sp_tool.png?raw=true "Optional Title")
 ### 5.6 Assicurarsi che lo smartphone sia scollegato dal pc e che sia spento
 Il device viene riconosciuto dal programma solo quando e' spento (si puo' anche estrarre la batteria). E' necessario anche che prima di avviare il processo di scrittura dell'immagine, il device sia scollegato dal PC.
 
